@@ -1,0 +1,3 @@
+﻿  phoneBook.cpp
+C:\Users\ElRomario\source\repos\phoneBook\phoneBook\phoneBook.cpp(81): warning C4715: searchContact: значение возвращается не при всех путях выполнения
+  phoneBook.vcxproj -> C:\Users\ElRomario\source\repos\phoneBook\Debug\phoneBook.exe
